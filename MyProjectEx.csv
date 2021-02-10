@@ -1,0 +1,105 @@
+Price,Built_Year,Apt_Type,Heating,Cooling,Parking,Address,Bedrooms,Bath_Spaces,Area,Zestimate,zip_code,city
+558000,1987,Condo,Forced air,Central,1 space,"2958 Flint St # 98,  Union City, CA 94587",2,2.0,919,544554,94587,Union City
+958000,1990,Single Family,Forced air,None,2 spaces,"4710 Andrea Way,  Union City, CA 94587",3,3.0,1472,969586,94587,Union City
+1335000,1997,Single Family,Forced air,None,2 spaces,"31358 Cape View Dr,  Union City, CA 94587",4,3.0,2415,1355227,94587,Union City
+950000,1984,Single Family,Forced air,None,Attached Garage,"4500 Oakdale St,  Union City, CA 94587",3,2.0,1630,969373,94587,Union City
+599000,1985,Townhouse,Forced air,Central,Carport,"241 Galano Plz,  Union City, CA 94587",3,2.0,1135,607198,94587,Union City
+520000,1987,Condo,Other,None,Carport,"3029 Risdon Dr # 14,  Union City, CA 94587",1,1.0,821,520004,94587,Union City
+1148000,1999,Single Family,Forced air,Central,Attached Garage,"105 Cascades Cir,  Union City, CA 94587",5,4.0,2320,1158883,94587,Union City
+950000,1964,Single Family,Forced air,Central,2 spaces,"33803 Washington Ave,  Union City, CA 94587",4,2.0,1740,976550,94587,Union City
+1175000,2002,Single Family,Forced air,Central,2 spaces,"34495 Jasmine Ct,  Union City, CA 94587",5,3.0,2257,1191745,94587,Union City
+879000,1971,Single Family,Forced air,None,2 spaces,"32230 Coronation Dr,  Union City, CA 94587",4,2.0,1684,898649,94587,Union City
+1140000,1998,Single Family,Forced air,None,2 spaces,"30761 Oxford Way,  Union City, CA 94587",5,3.0,2308,1159466,94587,Union City
+935000,1977,Single Family,Forced air,Central,2 spaces,"3306 San Carlos Way,  Union City, CA 94587",3,2.0,1306,959467,94587,Union City
+1450000,2000,Single Family,None,Other,Attached Garage,"33769 Heritage Ct,  Union City, CA 94587",5,4.0,2976,1529599,94587,Union City
+1248000,1995,Single Family,Forced air,Central,2 spaces,"2837 Montair Way,  Union City, CA 94587",5,3.0,2487,1269704,94587,Union City
+620000,2001,Condo,Other,Other,1 space,"35550 Monterra Ter APT 202,  Union City, CA 94587",2,2.0,1022,636720,94587,Union City
+1225000,1946,Multi Family,Other,Other,4 spaces,"33217 4th St,  Union City, CA 94587",5,3.0,2494,1259785,94587,Union City
+555000,1987,Condo,Forced air,None,Carport,"3020 Flint St # 65,  Union City, CA 94587",2,2.0,943,559092,94587,Union City
+319000,2020,Mobile / Manufactured,None,Other,No Data,"411 Fiji Cir,  Union City, CA 94587",3,2.0,1540,326409,94587,Union City
+979000,1919,Single Family,Forced air,Other,On street,"33631 9th St,  Union City, CA 94587",3,2.0,1154,996785,94587,Union City
+1605904,2004,Condo,None,Other,Detached Garage,"33030 Garfinkle St,  Union City, CA 94587",5,4.5,3642,1605904,94587,Union City
+1044678,1990,Single Family,None,Other,Detached Garage,"4765 Randi Ct,  Union City, CA 94587",4,2.5,1683,1044678,94587,Union City
+649900,1971,Townhouse,None,Other,2 spaces,"4210 Saturn Way,  Union City, CA 94587",4,2.0,1342,619174,94587,Union City
+805805,1971,Single Family,Forced air,None,Attached Garage,"2579 Maraschino Ct,  Union City, CA 94587",4,2.0,1888,805805,94587,Union City
+1276765,1994,Single Family,None,Other,Detached Garage,"32406 Monterey Dr,  Union City, CA 94587",4,2.5,2310,1276765,94587,Union City
+520065,1930,Single Family,None,Other,No Data,"33331 4th St,  Union City, CA 94587",2,1.0,680,520065,94587,Union City
+1416330,1996,Single Family,Forced air,Central,3 spaces,"4617 Maritime Loop,  Union City, CA 94587",5,3.0,2797,1416330,94587,Union City
+1049950,1968,Single Family,Forced air,None,Attached Garage,"3170 San Angelo Way,  Union City, CA 94587",6,3.0,1955,1066525,94587,Union City
+852480,1985,Single Family,None,Other,Detached Garage,"1609 Sherman Dr,  Union City, CA 94587",4,2.5,1564,852480,94587,Union City
+1161116,1993,Single Family,None,Other,Detached Garage,"2977 Miraloma Way,  Union City, CA 94587",4,3.0,2357,1161116,94587,Union City
+859997,1960,Single Family,None,Other,Attached Garage,"1936 Hartnell St,  Union City, CA 94587",4,2.0,1801,859997,94587,Union City
+1199000,1995,Single Family,Forced air,Central,3 spaces,"50 Victory Ct,  San Ramon, CA 94582",4,3.0,2359,1181004,94582,San Ramon
+999900,1980,Single Family,Forced air,Central,2 spaces,"100 Monasterio Ct,  San Ramon, CA 94583",4,3.0,1704,962737,94583,San Ramon
+365000,1988,Condo,None,Other,Attached Garage,"120 Reflections Dr APT 22,  San Ramon, CA 94583",1,1.0,474,368864,94583,San Ramon
+785000,1971,Single Family,Forced air,Central,2 spaces,"91 Casa Grande Pl,  San Ramon, CA 94583",2,1.0,805,768651,94583,San Ramon
+1899800,2000,Single Family,Forced air,Central,2 spaces,"4012 Lilac Ridge Rd,  San Ramon, CA 94582",4,4.0,3798,1764743,94582,San Ramon
+890000,2005,Townhouse,Forced air,Central,2 spaces,"1831 Cedarwood Loop,  San Ramon, CA 94582",4,3.0,1692,915132,94582,San Ramon
+1370000,1962,Single Family,Forced air,Central,2 spaces,"9599 Belle Meade Dr,  San Ramon, CA 94583",5,3.0,2955,1026785,94583,San Ramon
+1049900,1977,Single Family,Forced air,Central,3 spaces,"9741 Thunderbird Dr,  San Ramon, CA 94583",4,2.0,2112,1169074,94583,San Ramon
+1145000,1992,Single Family,Forced air,Central,2 spaces,"501 Saddle Creek Ct,  San Ramon, CA 94582",4,3.0,2310,1111188,94582,San Ramon
+618000,1988,Condo,None,Other,2 spaces,"3841 Crow Canyon Rd,  San Ramon, CA 94582",2,2.0,1107,592739,94582,San Ramon
+649000,1972,Townhouse,Forced air,Central,2 spaces,"2561 Fountainhead Dr,  San Ramon, CA 94583",3,2.0,1276,664384,94583,San Ramon
+1325000,2016,Single Family,None,Other,2 spaces,"2028 Trefoil Rd,  San Ramon, CA 94583",4,4.0,2534,1290159,94583,San Ramon
+1099000,2017,Miscellaneous,None,Other,2 spaces,"5104 Rowan Dr,  San Ramon, CA 94582",4,4.0,2152,1042778,94582,San Ramon
+459000,1963,Condo,Forced air,Central,Carport,"9090 Craydon Cir,  San Ramon, CA 94583",2,1.0,780,485799,94583,San Ramon
+1375000,2003,Single Family,Forced air,Central,3 spaces,"300 Rothbury Way,  San Ramon, CA 94582",4,3.0,3282,1365673,94582,San Ramon
+1450000,2007,Single Family,None,Central,2 spaces,"3509 Sleeping Meadow Way,  San Ramon, CA 94582",5,5.0,3541,1417556,94582,San Ramon
+1770000,2005,Single Family,Forced air,Central,2 spaces,"301 Violetta Ct,  San Ramon, CA 94582",5,3.0,4509,1770110,94582,San Ramon
+999000,1968,Single Family,Forced air,Central,2 spaces,"258 Dexter Pl,  San Ramon, CA 94583",4,3.0,2053,1041911,94583,San Ramon
+1399000,1976,Miscellaneous,Other,Central,3 spaces,"441 Barranca Ct,  San Ramon, CA 94583",4,3.0,2655,1548241,94583,San Ramon
+899000,1979,Single Family,Forced air,Central,2 spaces,"99 Monasterio Ct,  San Ramon, CA 94583",4,2.0,1713,927084,94583,San Ramon
+420000,1989,Condo,Forced air,Central,1 space,"450 Bollinger Canyon Ln APT 290,  San Ramon, CA 94582",1,1.0,657,426928,94582,San Ramon
+800000,2014,Single Family,Forced air,Other,2 spaces,"2013 Tarragon Rose Ct,  San Ramon, CA 94582",2,3.0,1265,825902,94582,San Ramon
+360000,1971,Condo,None,Other,1 space,"8975 Alcosta Blvd APT 101,  San Ramon, CA 94583",1,1.0,722,369912,94583,San Ramon
+1699995,2020,Single Family,Forced air,Central,2 spaces,"65 Woodshore Ct,  San Ramon, CA 94582",4,5.0,3161,1700001,94582,San Ramon
+1507860,2020,Single Family,Forced air,Central,2 spaces,"860 Bergamot Ct,  San Ramon, CA 94583",4,5.0,3325,1507867,94583,San Ramon
+1199000,1995,Single Family,Forced air,Central,2 spaces,"776 Bridge Creek Dr,  San Ramon, CA 94582",5,3.0,2336,1133099,94582,San Ramon
+1546000,2020,Single Family,Forced air,Central,2 spaces,"832 Bergamot Ct,  San Ramon, CA 94583",4,4.0,3737,1546007,94583,San Ramon
+878000,1991,Single Family,Forced air,Central,2 spaces,"332 Winterwind Cir,  San Ramon, CA 94583",3,3.0,1651,902653,94583,San Ramon
+1393995,2020,Single Family,Forced air,Central,2 spaces,"744 Roseum Ct,  San Ramon, CA 94583",4,4.0,2679,1250192,94583,San Ramon
+1148000,1962,Single Family,Forced air,Central,2 spaces,"148 Metairie Pl,  San Ramon, CA 94583",4,3.0,2088,1200329,94583,San Ramon
+1299999,1963,Single Family,Forced air,Other,2 spaces,"7506 Sedgefield Ave,  San Ramon, CA 94583",5,3.0,2537,1356523,94583,San Ramon
+1398000,1996,Single Family,Forced air,Central,5 spaces,"304 Rubicon Valley,  San Ramon, CA 94582",4,3.0,2768,1378236,94582,San Ramon
+948000,1964,Single Family,Forced air,Central,2 spaces,"48 Brian Ct,  San Ramon, CA 94583",4,2.0,1427,992289,94583,San Ramon
+2799000,2001,Single Family,Forced air,Central,3 spaces,"4542 Lilac Ridge Rd,  San Ramon, CA 94582",5,6.0,6819,2780261,94582,San Ramon
+985000,2007,Single Family,Forced air,Central,2 spaces,"2339 Maidenhair Way,  San Ramon, CA 94582",4,3.0,2019,1013978,94582,San Ramon
+849000,2008,Townhouse,Forced air,Central,2 spaces,"5121 Fioli Loop,  San Ramon, CA 94582",3,3.0,2140,874354,94582,San Ramon
+898000,1965,Condo,Forced air,None,Attached Garage,"4104 George Ave APT 8,  San Mateo, CA 94403",2,2.0,1128,939952,94403,San Mateo
+1800000,1984,Single Family,Forced air,Central,2 spaces,"1620 Toyon Ct,  San Mateo, CA 94403",3,3.0,2310,1926101,94403,San Mateo
+848000,1964,Condo,Forced air,Other,No Data,"234 Elm St APT 211,  San Mateo, CA 94401",2,1.0,1281,911831,94401,San Mateo
+3799000,1934,Single Family,Forced air,Central,2 spaces,"407 Nevada Ave,  San Mateo, CA 94402",4,4.0,3720,3548022,94402,San Mateo
+1465000,1980,Condo,Other,Central,Attached Garage,"555 Laurel Ave APT 502,  San Mateo, CA 94401",2,2.0,1786,1476581,94401,San Mateo
+1099000,1954,Single Family,Other,None,1 space,"1784 Rex St,  San Mateo, CA 94403",3,1.0,1030,1126239,94403,San Mateo
+680000,1978,Condo,Other,None,1 space,"490 Mariners Island Blvd APT 213,  San Mateo, CA 94404",1,1.0,965,693631,94404,San Mateo
+1369000,1940,Single Family,Other,None,Attached Garage,"2715 Garfield St,  San Mateo, CA 94403",3,1.0,910,1475559,94403,San Mateo
+928000,1994,Condo,Forced air,Other,Carport,"88 17th Ave UNIT 201,  San Mateo, CA 94402",2,2.0,1027,958907,94402,San Mateo
+499000,1987,Condo,Forced air,None,1 space,"320 Peninsula Ave APT 412,  San Mateo, CA 94401",1,1.0,667,515618,94401,San Mateo
+1188888,1957,Single Family,Forced air,None,Attached Garage,"2650 Hosmer St,  San Mateo, CA 94403",3,2.0,1100,1336064,94403,San Mateo
+1750000,1948,Single Family,Forced air,Other,3 spaces,"145 16th Ave,  San Mateo, CA 94402",3,2.0,1758,1889075,94402,San Mateo
+1189000,1978,Townhouse,Forced air,None,1 space,"2383 Ticonderoga Dr,  San Mateo, CA 94402",2,3.0,1470,1252028,94402,San Mateo
+749999,1961,Townhouse,None,Other,Carport,"1636 Marina Ct UNIT G,  San Mateo, CA 94403",3,1.0,1001,795728,94403,San Mateo
+1950000,1961,Single Family,Forced air,None,2 spaces,"772 Pico Ave,  San Mateo, CA 94403",3,2.0,1670,2106222,94403,San Mateo
+1699000,1932,Single Family,Forced air,None,2 spaces,"120 22nd Ave,  San Mateo, CA 94403",3,3.0,1800,1833151,94403,San Mateo
+1588000,1988,Condo,Other,Central,Carport,"111 W 3rd Ave APT 204,  San Mateo, CA 94402",2,2.0,1969,1631122,94402,San Mateo
+1150000,1982,Condo,Forced air,Central,Carport,"35 9th Ave APT 5,  San Mateo, CA 94401",2,2.0,1680,1216413,94401,San Mateo
+1699000,1948,Single Family,Forced air,None,Attached Garage,"3806 Kenwood Ave,  San Mateo, CA 94403",4,2.0,1840,1831011,94403,San Mateo
+1628000,1978,Single Family,Forced air,None,Attached Garage,"329 Rosilie St,  San Mateo, CA 94403",4,3.0,2020,1747192,94403,San Mateo
+925000,1957,Condo,Forced air,None,Carport,"151 W 3rd Ave APT 2,  San Mateo, CA 94402",2,2.0,1250,982828,94402,San Mateo
+1288000,1948,Single Family,Other,Central,2 spaces,"635 Cuesta Ave,  San Mateo, CA 94403",2,2.0,1250,1388688,94403,San Mateo
+1298000,2014,Townhouse,Forced air,Central,Attached Garage,"2828 Alvarado Ave,  San Mateo, CA 94403",2,3.0,1250,1367755,94403,San Mateo
+1599000,1977,Single Family,Forced air,None,Attached Garage,"708 Fathom Dr,  San Mateo, CA 94404",3,3.0,1840,1650712,94404,San Mateo
+1199000,1946,Single Family,Forced air,None,2 spaces,"29 S Quebec St,  San Mateo, CA 94401",5,2.0,1790,1332222,94401,San Mateo
+1398000,1979,Townhouse,Other,None,Attached Garage,"102 Harbor Seal Ct,  San Mateo, CA 94404",3,3.0,2100,1496439,94404,San Mateo
+1998000,1941,Single Family,Forced air,Central,Attached Garage,"144 30th Ave,  San Mateo, CA 94403",3,3.0,1893,2191639,94403,San Mateo
+1695000,1950,Single Family,Forced air,None,1 space,"3920 Pasadena Dr,  San Mateo, CA 94403",4,3.0,1920,1889388,94403,San Mateo
+1799000,1966,Single Family,Forced air,None,Attached Garage,"694 Port Dr,  San Mateo, CA 94404",3,3.0,1800,1901815,94404,San Mateo
+2188000,1952,Single Family,Forced air,Central,2 spaces,"905 Oregon Ave,  San Mateo, CA 94402",3,2.0,2300,2363357,94402,San Mateo
+1649000,1985,Single Family,Forced air,None,2 spaces,"1830 Parkwood Dr,  San Mateo, CA 94403",3,3.0,1780,1748004,94403,San Mateo
+1800000,1945,Single Family,Forced air,None,Attached Garage,"560 31st Ave,  San Mateo, CA 94403",5,3.0,1974,1944885,94403,San Mateo
+1675000,1973,Condo,Forced air,Central,Carport,"50 Mounds Rd APT 615,  San Mateo, CA 94402",2,2.0,2036,1801240,94402,San Mateo
+2698000,1986,Single Family,Forced air,None,Attached Garage,"50 Crown Ct,  San Mateo, CA 94402",3,3.0,3020,2745612,94402,San Mateo
+1748000,1946,Single Family,Forced air,None,Attached Garage,"1121 S Grant St,  San Mateo, CA 94402",3,3.0,2200,1877110,94402,San Mateo
+1648000,1956,Single Family,Other,None,2 spaces,"1755 Wolfe Dr,  San Mateo, CA 94402",3,2.0,2000,1775700,94402,San Mateo
+1548000,1950,Single Family,Forced air,None,Attached Garage,"3957 Casanova Dr,  San Mateo, CA 94403",5,2.0,2050,1671706,94403,San Mateo
+1399000,2014,Townhouse,Forced air,Central,Attached Garage,"2838 Alvarado Ave,  San Mateo, CA 94403",3,3.0,1380,1442571,94403,San Mateo
